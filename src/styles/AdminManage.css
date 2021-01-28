@@ -1,0 +1,11 @@
+.content {
+  min-height: 100vh;
+}
+
+.tab {
+  flex: 1;
+}
+
+.tab-content {
+  color: black;
+}

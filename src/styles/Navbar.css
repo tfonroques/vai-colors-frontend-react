@@ -1,0 +1,13 @@
+.navigation {
+  background-image: url("../assets/tropicalv2.jpg");
+}
+
+.nav-item {
+  color: gold;
+  text-shadow: 1px 1px 2px green;
+}
+
+.logo {
+  color: gold;
+  text-shadow: 1px 1px 2px greenyellow;
+}
